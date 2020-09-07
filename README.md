@@ -1,10 +1,4 @@
-# Starting-Code
 
-Some helpful points before start to code
-
-* How To Master Google
-
-* Text Editor
 
 # How To Master Google
 
